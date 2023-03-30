@@ -50,3 +50,7 @@ For documentation regarding each filter refer to the README file inside the filt
   
 # Custom Modules
 For documentation regarding creating your own Blueprint filters, refer to this [README](https://github.com/Hackcraft-Labs/Blueprint/blob/main/filters).
+
+### Community
+
+Join the Hackcraft community discord server [here](https://discord.gg/ETas656jJ7). On the server you can receive support and discuss issues related to Blueprint.
