@@ -53,4 +53,4 @@ For documentation regarding creating your own Blueprint filters, refer to this [
 
 ### Community
 
-Join the Hackcraft community discord server [here](https://discord.gg/ETas656jJ7). On the server you can receive support and discuss issues related to Blueprint.
+Join the Hackcraft community discord server [here](https://discord.gg/KZZfsnQsja). On the server you can receive support and discuss issues related to Blueprint.
