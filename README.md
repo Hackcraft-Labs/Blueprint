@@ -51,6 +51,10 @@ For documentation regarding each filter refer to the README file inside the filt
 # Custom Modules
 For documentation regarding creating your own Blueprint filters, refer to this [README](https://github.com/Hackcraft-Labs/Blueprint/blob/main/filters).
 
+### Detailed Analysis
+
+A more detailed analysis of Blueprint and its features can be found [on our blog](https://www.hackcraft.gr/2023/05/blueprint-blog/).
+
 ### Author
 
 [Nick Aliferopoulos](https://github.com/naliferopoulos/)
