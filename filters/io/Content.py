@@ -9,8 +9,8 @@ def variables(variables: dict):
     return variables
 
 
-def filter(input) -> str:
+def filter(input, mode="rb") -> str:
     print("[DBG] Running content.")
 
-    with open(input, "rb") as file:
+    with open(input, mode) as file:
         return file.read()
