@@ -25,6 +25,9 @@ def filter(input) -> str:
 
     # XOR each character with the key
     for letter in input:
-        output.append(ord(letter) ^ KEY)
+        if isinstance(letter, str):
+            output.append(ord(letter) ^ KEY)
+        else:
+            output.append(letter ^ KEY)
 
     return output
