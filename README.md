@@ -53,7 +53,8 @@ For documentation regarding creating your own Blueprint filters, refer to this [
 
 ### Detailed Analysis
 
-A more detailed analysis of Blueprint and its features can be found [on our blog](https://www.hackcraft.gr/2023/05/blueprint-blog/).
+A more detailed analysis of Blueprint and its features can be found [on our blog](https://www.hackcraft.gr/2023/05/blueprint-blog/). A step-by-step use case along with example code can be found on our second artictle [From traditional to templated malware](https://www.hackcraft.gr/2023/06/from-traditional-to-templated-malware/
+).
 
 ### Author
 
